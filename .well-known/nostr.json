@@ -1,0 +1,9 @@
+{
+  "names": {
+    "_": "eeef8f1c33febecebc8fe0aabccf426685f56085ee8de10ebe9200aa8ae3f7ab",
+    "murachue": "eeef8f1c33febecebc8fe0aabccf426685f56085ee8de10ebe9200aa8ae3f7ab"
+  },
+  "relays": {
+    "eeef8f1c33febecebc8fe0aabccf426685f56085ee8de10ebe9200aa8ae3f7ab": ["wss://relay-jp.nostr.wirednet.jp", "wss://nostr-relay.nokotaro.com"]
+  }
+}
