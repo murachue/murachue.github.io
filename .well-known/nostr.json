@@ -5,7 +5,7 @@
     "murachue_mobile": "df07dc5f990d3997a3e7de06646026aaecad06ce4a79aed3bfcee134e1d1adb5"
   },
   "relays": {
-    "eeef8f1c33febecebc8fe0aabccf426685f56085ee8de10ebe9200aa8ae3f7ab": ["wss://relay-jp.nostr.wirednet.jp", "wss://nostr-relay.nokotaro.com"],
-    "df07dc5f990d3997a3e7de06646026aaecad06ce4a79aed3bfcee134e1d1adb5": ["wss://relay-jp.nostr.wirednet.jp", "wss://nostr-relay.nokotaro.com"]
+    "eeef8f1c33febecebc8fe0aabccf426685f56085ee8de10ebe9200aa8ae3f7ab": ["wss://relay-jp.nostr.wirednet.jp", "wss://nos.lol"],
+    "df07dc5f990d3997a3e7de06646026aaecad06ce4a79aed3bfcee134e1d1adb5": ["wss://relay-jp.nostr.wirednet.jp", "wss://nos.lol"]
   }
 }
